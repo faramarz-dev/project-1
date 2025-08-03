@@ -18,7 +18,7 @@ export const Header: React.FC = () => {
           <div>
             <Link href="/">
               <Image
-                src="/images/icons/logo.png"
+                src="/images/icons/Logo.png"
                 alt="logo"
                 width={300}
                 height={50}
