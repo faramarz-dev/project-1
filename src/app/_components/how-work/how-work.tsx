@@ -12,7 +12,7 @@ export default function HowWork() {
           {/* کارت ۱ */}
           <div className="w-72 flex flex-col items-center text-center">
             <Image
-              src={"/images/icons/icon-order.png"}
+              src={"/images/icons/icon-location.png"}
               alt="Select location icon"
               width={150}
               height={50}
