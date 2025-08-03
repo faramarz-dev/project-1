@@ -16,9 +16,9 @@ export default function HowWork() {
               alt="Select location icon"
               width={150}
               height={50}
-              className="h-full"
+              className="h-52"
             />
-            <h3 className="text-xl font-bold -mt-4">Select location</h3>
+            <h3 className="text-xl font-bold -mt-8">Select location</h3>
             <p className="text-sm text-gray-400 mt-2 px-2">
               Lorem ipsum dolor sit amet consectetur adipisicing elit lorem
               dolor velit similique harum ea dolorem
@@ -32,9 +32,9 @@ export default function HowWork() {
               alt="Choose order icon"
               width={150}
               height={50}
-              className="h-full"
+              className="h-52"
             />
-            <h3 className="text-xl font-bold mt-4">Choose order</h3>
+            <h3 className="text-xl font-bold -mt-8">Choose order</h3>
             <p className="text-sm text-gray-400 mt-2 px-2">
               Lorem ipsum dolor sit amet consectetur adipisicing elit lorem
               dolor velit similique harum ea dolorem
@@ -48,9 +48,9 @@ export default function HowWork() {
               alt="Pay advanced icon"
               width={150}
               height={50}
-              className="h-full"
+              className="h-52"
             />
-            <h3 className="text-xl font-bold mt-4">Pay advanced</h3>
+            <h3 className="text-xl font-bold -mt-8">Pay advanced</h3>
             <p className="text-sm text-gray-400 mt-2 px-2">
               Lorem ipsum dolor sit amet consectetur adipisicing elit lorem
               dolor velit similique harum ea dolorem
@@ -64,9 +64,9 @@ export default function HowWork() {
               alt="Enjoy meals icon"
               width={150}
               height={50}
-              className="h-full"
+              className="h-52"
             />
-            <h3 className="text-xl font-bold mt-4">Enjoy meals</h3>
+            <h3 className="text-xl font-bold -mt-8">Enjoy meals</h3>
             <p className="text-sm text-gray-400 mt-2 px-2">
               Lorem ipsum dolor sit amet consectetur adipisicing elit lorem
               dolor velit similique harum ea dolorem

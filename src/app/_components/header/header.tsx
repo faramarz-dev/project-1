@@ -22,7 +22,6 @@ export const Header: React.FC = () => {
                 alt="logo"
                 width={300}
                 height={50}
-                className=""
               />
             </Link>
           </div>
