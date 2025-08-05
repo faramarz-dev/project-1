@@ -74,6 +74,7 @@ export default function HowWork() {
           </div>
         </div>
       </div>
+      <hr className="mt-20 lg:hidden " />
     </>
   );
 }
