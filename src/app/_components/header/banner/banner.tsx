@@ -46,7 +46,7 @@ const Banner = () => {
               <div className="relative flex-grow w-full sm:w-[80%]">
                 {/* آیکون لوکیشن فقط وقتی فیلد خالیه نمایش داده می‌شه */}
                 {address.trim() === "" && (
-                  <span className="absolute left-3 top-1/2 transform -translate-y-1/2 text-amber-600 dark:text-pink-400">
+                  <span className="absolute left-3 top-1/2 transform -translate-y-1/2 text-amber-600 ">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
                       className="w-5 h-5"
