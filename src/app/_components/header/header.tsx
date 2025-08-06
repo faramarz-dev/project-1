@@ -51,7 +51,7 @@ export const Header: React.FC = () => {
           </div>
 
           {/* منو دسکتاپ */}
-          <div className="hidden xl:flex  items-center gap-6 text-sm md:text-base text-gray-700 text-center">
+          <div className="hidden xl:flex items-center gap-6 text-sm md:text-base text-gray-700 text-center">
             {navItems.map((item, index) => (
               <NavLink href={item.href} key={index}>
                 {item.label}
@@ -60,7 +60,7 @@ export const Header: React.FC = () => {
 
             {/* سرچ */}
             <div className="relative">
-              <span className="absolute left-3 top-1/2 transform -translate-y-1/2 text-amber-600 dark:text-pink-400">
+              <span className="absolute left-3 top-1/2 transform -translate-y-1/2 text-amber-600 ">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   className="w-5 h-5"
@@ -101,7 +101,7 @@ export const Header: React.FC = () => {
 
             {/* سرچ موبایل */}
             <div className="relative">
-              <span className="absolute left-3 top-1/2 transform -translate-y-1/2 text-amber-600 dark:text-pink-400">
+              <span className="absolute left-3 top-1/2 transform -translate-y-1/2 text-amber-600">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   className="w-5 h-5"
